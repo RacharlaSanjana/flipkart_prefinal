@@ -2,8 +2,8 @@
 # Re.com - Flipkart Grid 5.0
 
 *Submission by:*
-- Keerthi Sree Konkimalla
 - Sanjana Racharla
+- Keerthi Sree Konkimalla
 - Bhanu Prakash Sanikommu
 
 ## Problem Statement
